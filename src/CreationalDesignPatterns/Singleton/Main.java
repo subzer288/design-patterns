@@ -1,4 +1,4 @@
-package CreationalDesignPatterns;
+package CreationalDesignPatterns.Singleton;
 
 import CreationalDesignPatterns.Singleton.Singleton;
 
